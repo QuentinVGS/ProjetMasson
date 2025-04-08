@@ -55,6 +55,6 @@ Fonctionnalités :
 ---
 
 ## 👨‍💻 Équipe projet
-- Quentin V.
-- [Nom de ton binôme 1]
-- [Nom de ton binôme 2, si applicable]
+- Quentin Veigas.
+- Emrane Smaki
+- Riyad Menas
