@@ -31,7 +31,9 @@ Fonctionnalités :
 
 ## 💾 Base de données
 - Une table `joueurs` (nom, prénom, date de naissance, pays, poste)
-- Une table `matchs` (date, compétition, équipes, score, lieu)
+- Une table `match_foot` (date, compétition, équipes, score, lieu)
+- Une table `equipe` (nom, pays, ville, anne_fondation)
+- Une table `pays` (nom, code)
 - Utilisation de **jointures SQL** pour relier les informations lors de l’affichage.
 
 ---
